@@ -30,3 +30,8 @@ https://www.google.co.jp/
 print("hello world")
  ```
 
+---
+
+# 複数ページテスト
+
+[LINKページ](link.md)
